@@ -34,7 +34,7 @@ I'm an full-stack developer adding to my digital footprint one step at a time. M
 #
 
 <details>
- <summary><h3>:moyai: Sams's Coding Journey</h3></summary>
+ <summary><h3>:moyai: Sam's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own website. I started my web development in Angular and Node.js to test my skills...I implemented a dynamic chat service linked to Firebase and a community page for users. After understanding Angular. During 2023, I want to start on my dream to build my personal website using React. 
   
 

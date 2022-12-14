@@ -2,8 +2,6 @@
 
 #### **`Digital & Mechanical Craftsman (Developer//Entrepreneur)`**
 
-I'm an full-stack developer adding to my digital footprint one step at a time. My projects are built from the ground up, from planning and pattern design all the way to solving real-life problems with code. My buisness is built the same way, from ideation and planning to execution and result
-
 ---
 
 ### Technology I use
